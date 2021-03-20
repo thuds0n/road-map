@@ -126,7 +126,7 @@ def main():
     	fps.update()
 
     # stop the timer and display FPS information
-    fps.stop() '''
+    fps.stop()'''
 
     #print("[INFO] elasped time: {:.2f}".format(fps.elapsed()))
     #print("[INFO] approx. FPS: {:.2f}".format(fps.fps()))
